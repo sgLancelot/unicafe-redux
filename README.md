@@ -1,1 +1,2 @@
-# unicafe-redux. For fullstackopen.com, part 6.
+# unicafe-redux. 
+For fullstackopen.com, part 6.
